@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav {
+    /* width: 46.25%; */
+}
+li {
+    display: inline-block;
+    margin-right: 100px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
